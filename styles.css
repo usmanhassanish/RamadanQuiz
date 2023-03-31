@@ -32,3 +32,24 @@ body
 	margin-top: 5%;
 	padding-bottom: 5%;
 }
+.questions
+{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#crop
+{
+	text-align: initial;
+	margin-left: 40%;
+}
+.submit
+{
+	text-align: center;
+	width: 100%;
+	color: white;
+}
